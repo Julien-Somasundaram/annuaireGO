@@ -1,8 +1,8 @@
 # TP1 - Annuaire (en Go)
 
 ## EQUIPE
-SOMASUNDARAM Julien
-TAMIMOUL Chuaibe
+- SOMASUNDARAM Julien
+- TAMIMOUL Chuaibe
 
 ## 📌 Présentation
 
